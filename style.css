@@ -9,7 +9,7 @@ body {
 
 header {
     background: #ec407a; /* Pink header */
-    color: #fff;
+    color: #ff00d4;
     padding: 1rem 0;
     text-align: center;
 }
@@ -25,7 +25,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-    color: #fff;
+    color: #ff0090;
     text-decoration: none;
 }
 
